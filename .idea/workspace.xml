@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9a61df0-7265-4f4a-b755-bbd18a1b671f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/main/service/blacklist_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test/test_user_medol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main/model/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main/model/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main/util/dto.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main/util/dto.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +57,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/main/model/user.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="283">
@@ -97,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/main/util/dto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="289">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -150,7 +146,6 @@
         <option value="$PROJECT_DIR$/app/manage.py" />
         <option value="$PROJECT_DIR$/app/test/test_config.py" />
         <option value="$PROJECT_DIR$/app/main/service/user_service.py" />
-        <option value="$PROJECT_DIR$/app/main/util/dto.py" />
         <option value="$PROJECT_DIR$/app/main/controller/user_controller.py" />
         <option value="$PROJECT_DIR$/app/__init__.py" />
         <option value="$PROJECT_DIR$/app/main/model/blacklist.py" />
@@ -159,6 +154,7 @@
         <option value="$PROJECT_DIR$/app/test/base.py" />
         <option value="$PROJECT_DIR$/app/test/test_user_medol.py" />
         <option value="$PROJECT_DIR$/app/main/model/user.py" />
+        <option value="$PROJECT_DIR$/app/main/util/dto.py" />
       </list>
     </option>
   </component>
@@ -444,13 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/main/util/dto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/main/controller/user_controller.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
@@ -535,6 +524,13 @@
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main/util/dto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
         </state>
       </provider>
     </entry>
